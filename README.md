@@ -1,8 +1,7 @@
 To run project:
 
-Extract files from the SRC folder.
-
-Navigate to the directory and:
+Clone git repo / download project.
+Navigate to directory with public, src, package.json and:
 1. npm install
 
 2. npm start
